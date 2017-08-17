@@ -31,13 +31,12 @@
  *    IE on Windows Phone and in iOS.
  */
 
-section.at-inner {
-  background: none;
-  border: none;
-}
-header.at-title, header.at-markup,  fieldset.at-fieldset legend.at-legend  {
-  display: none;
-}
+ .main-bg {
+   background-image: url(/img/bg5.png);
+   background-position: 80% 0px;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
 
 
 html { line-height: 1.15; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
