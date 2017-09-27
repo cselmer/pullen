@@ -31,11 +31,16 @@
  *    IE on Windows Phone and in iOS.
  */
 
- .main-bg {
-   background-image: url(/img/bg5b.png);
-   background-position: 80% 0px;
-   background-repeat: no-repeat;
-   background-size: cover;
+div#ngp-wrapper div.thankYou section {
+  background: white;
+  padding: 20px;
+}
+
+.main-bg {
+  background-image: url(/img/bg5b.png);
+  background-position: 80% 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
  }
 
 
